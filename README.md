@@ -40,7 +40,7 @@ The second half of the course is focused on two projects addressing a specific r
 
 Learn more: [API](https://github.com/fac19/Bechdel-Beyond-backend), [FE](https://github.com/fac19/Bechdel-Beyond) and live [website](https://bechdelbeyond.netlify.app).
 
-![](https://i.imgur.com/KmXTczy.png)
+![](./images/screenshot-bechdel.png)
 
 
 **2. Client project: :rocket: Enterprise Adventure**
@@ -51,7 +51,7 @@ Learn more: [API](https://github.com/fac19/Bechdel-Beyond-backend), [FE](https:/
 
 Learn more: [FE](https://github.com/fac19/teach-fish-frontend) code and live [website](https://enterprise-adventure.netlify.app).
 
-![screenshot](images/screenshot-ea.png)
+![screenshot](./images/screenshot-ea.png)
 
 :purple_heart: Thank you for reading! :purple_heart:
 
@@ -64,7 +64,7 @@ Learn more: [FE](https://github.com/fac19/teach-fish-frontend) code and live [we
 - Team project: Digital Agency responsive and accessible website [repo](https://github.com/glrta/week1-hklo).
 - Team: Gio, Hannah, Tom and James.
 
-![images/website_screenshot.png](https://github.com/glrta/week1-hklo/raw/master/images/website_screenshot.png)
+![images/website_screenshot.png](./images/screenshot-week1.png)
 
 ### Week 2: HTTP
 
@@ -73,7 +73,7 @@ Learn more: [FE](https://github.com/fac19/teach-fish-frontend) code and live [we
 - Team project: Movie Mashup [repo](https://github.com/glrta/week2-hklo). Movie mash-up is a game where the user is given a randomised GIF and has to select the correct movie out of 4 randomised choices that are displayed on the page.
 - Team: Gio, Hannah, Tom and James.
 
-![screenshot](https://github.com/fac19/week2-hklo/raw/master/screenshot.png)
+![screenshot](./images/screenshot-week2.png)
 
 ### Week 3: Testing
 
@@ -82,7 +82,7 @@ Learn more: [FE](https://github.com/fac19/teach-fish-frontend) code and live [we
 - Team project: to-do list website [repo](https://fac19.github.io/week3-JICG/).
 - Team: Gio, Chloe, Jack and Ivo.
   
-![screenshot](https://i.imgur.com/sN6hFyq.jpg)
+![screenshot](./images/screenshot-week3.png)
 
 ### Week 4: Node.js
 
@@ -91,7 +91,7 @@ Learn more: [FE](https://github.com/fac19/teach-fish-frontend) code and live [we
 - Team project: Microblog [repo](https://serene-peak-45045.herokuapp.com).
 - Team: Gio, Chloe, Jack and Ivo.
 
-![screenshot](https://camo.githubusercontent.com/3e7e7fafab0e8b11538347845117f68673a07045/68747470733a2f2f692e696d6775722e636f6d2f6248717875356f2e706e67)
+![screenshot](./images/screenshot-week4.png)
 
 ### Week 5: Database (PostgreSQL)
 
@@ -100,7 +100,7 @@ Learn more: [FE](https://github.com/fac19/teach-fish-frontend) code and live [we
 - Team project: Blog style website where users can post surplus items for other users to collect. [Repo](https://github.com/fac19/week5-FKAM).
 - Team: Gio, Joe, Ina and Roger.
 
-![screenshot](https://github.com/fac19/week5-FKAM/raw/master/screenshot.png)
+![screenshot](./images/screenshot-week5.png)
 
 ### Week 6: Authentication
 
@@ -109,7 +109,7 @@ Learn more: [FE](https://github.com/fac19/teach-fish-frontend) code and live [we
 - Team project: Blog website with authentication. [Repo](https://github.com/glrta/week6-BGJK).
 - Team: Gio, Cammy, Liz and Vatsal.
 
-![screenshot](https://github.com/glrta/week6-BGJK/raw/master/screenshot.png)
+![screenshot](./images/screenshot-week6.png)
 
 ### Week 7: Rest API
 
@@ -125,7 +125,7 @@ Learn more: [FE](https://github.com/fac19/teach-fish-frontend) code and live [we
 - Team project: website to share your love for dogs. [Repo](https://github.com/glrta/week8-DEKN).
 - Team: Gio, Hettie, Ako and Kat.
 
-![screenshot](https://github.com/glrta/week8-DEKN/raw/master/screenshot.png)
+![screenshot](./images/screenshot-week8.png)
 
 ### Week 10: React
 
